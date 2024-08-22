@@ -1,5 +1,5 @@
 # Proyecto de Operaciones con Números Complejos
-
+## JUAN PABLO CONTRERAS PARRA CNYT-1
 ## Descripción
 
 Este proyecto implementa una libería con una serie de funciones para realizar operaciones matemáticas con números complejos, como la suma, resta, multiplicación, división, cálculo del módulo, conjugado, fase, y conversiones entre las formas cartesiana y polar. También se incluye un menú interactivo que permite al usuario seleccionar la operación deseada y proporcionar los valores de entrada.
